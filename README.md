@@ -1,2 +1,4 @@
-# labs-mc536
-Laboratórios da disciplina MC536 - Banco de Dados: Teoria e Prática.
+# Laboratórios da disciplina MC536 - Banco de Dados: Teoria e Prática.
+
+## Aluno
+José Henrique Dioz Récio - RA: 176622
