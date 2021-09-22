@@ -18,5 +18,5 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
-(escreva aqui a resolução em Cypher)
+match(m:Marcador)-[*]->(C:Categoria{id:"Serviços"}) return m
 ~~~
