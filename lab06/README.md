@@ -1,14 +1,14 @@
 # Aluno
-* `176622`: `José Henrique Dioz Récio`
+* 176622: José Henrique Dioz Récio
 
-# Análise do Artigo `SMMnet: A Social Network of Games Dataset`
+# Análise do Artigo SMMnet: A Social Network of Games Dataset
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `MORAES, Leonardo Mauro Pereira; CORDEIRO, Robson Leonardo Ferreira. SMMnet: A Social Network of Games Dataset. **34th SBBD**, Institute of Mathematics and Computer Sciences, University of Sao Paulo Av. Trabalhador Sancarlense, 400, Sao Carlos, SP, Brazil, p. 429-439, 10 set. 2019.` |
-| link       | `<https://drive.google.com/file/d/1JbYl_OQzHH-GiZmDYXmARnwA0Yg4TJYh/view>` |
-| dataset | `<https://www.kaggle.com/leomauro/smmnet>` |
-| formato | `.csv` |
+| referência | MORAES, Leonardo Mauro Pereira; CORDEIRO, Robson Leonardo Ferreira. SMMnet: A Social Network of Games Dataset. **34th SBBD**, Institute of Mathematics and Computer Sciences, University of Sao Paulo Av. Trabalhador Sancarlense, 400, Sao Carlos, SP, Brazil, p. 429-439, 10 set. 2019. |
+| link       | <https://drive.google.com/file/d/1JbYl_OQzHH-GiZmDYXmARnwA0Yg4TJYh/view> |
+| dataset | <https://www.kaggle.com/leomauro/smmnet> |
+| formato | .csv |
 
 ## Resumo
 
